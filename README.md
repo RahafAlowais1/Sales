@@ -1,10 +1,10 @@
 # Sales Analysis Using SQL
 
-## Overview
+## Overview:
 
 This project focuses on analyzing sales data using SQL to gain insights into sales performance, trends, and product effectiveness. It aims to provide valuable metrics and visual representations of sales data to support strategic decision-making.
 
-## Features
+## Features:
 
 - Running Sales: Calculation of total sales for each month to understand cumulative performance over time.
 - Running Sales Yearly: Insights into yearly sales performance for comparative analysis.
